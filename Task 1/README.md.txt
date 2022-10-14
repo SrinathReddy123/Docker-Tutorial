@@ -55,3 +55,10 @@
   docker build -t <image-name> .   
 
 
+14. Docker push : Push docker image from local to docker hub repository.
+
+   docker push <username/image-name>:<tag-name>
+
+15. Docker exec : Access running container.
+
+    docker exec -it <container-name> bash
