@@ -16,4 +16,6 @@ As part of this project, we have achieved below things.
    
 3. Created Welcome-app application and pushed it to docker hub repository.   
 
+  <img width="950" alt="Task3" src="https://user-images.githubusercontent.com/90196559/195878786-aa0837b3-65d8-4299-941e-df24f9acfae8.png">
+
    https://hub.docker.com/layers/srinathreddy10/welcome-app/latest/images/sha256-a4f7c7e334a92d10a0fb4ac1d56eefa12496addae0d07d51390aafcd265ea150?context=repo
